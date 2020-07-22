@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "askForPassword": true,
+            "database": "projectx",
+            "dialect": "MySQL",
+            "name": "projectx",
+            "port": 3306,
+            "server": "localhost",
+            "username": "root"
+        }
+    ],
+    "git.ignoreLimitWarning": true,
+    "search.exclude": {
+        "**/build": true,
+        "**/public": true
+    }
+}
